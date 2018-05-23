@@ -137,7 +137,8 @@ li {
 }
 
 section img {
-	max-width: 100%;
+	width: 50%;
+	height: 50%;
 	margin: 0 auto;
 	display: block;
 }
@@ -152,7 +153,7 @@ section img {
 
 .body-poem-text {
 	text-align: center;
-	font: normal 17px/150% Helvetica, sans-serif;
+	font: italic 17px/150% Helvetica, sans-serif;
 }
 
 footer {
@@ -173,9 +174,9 @@ footer {
 }
 
 section {
-	padding: 20px;
-	display: flex;
-	justify-content: center;
+	padding-top: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 li a:link {
