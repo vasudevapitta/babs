@@ -29,7 +29,7 @@ img, embed, object, video {
 }
 
 .fa-bars:hover {
-    color: #000;
+    color: #7a7a7a;
     background-color: #fff;
 }
 }
@@ -125,7 +125,7 @@ li {
 }
 
 .nav ul {
-	color: #000;
+
     font: normal 15px/0 Helvetica, sans-serif;
     list-style-type: none;
     text-align: right;
@@ -185,11 +185,7 @@ li a:link {
 }
 
 li a:hover {
-	color: #5b5b5b;
-}
-
-li a:visited {
-	color: #000;
+	color: #7a7a7a;
 }
 
 .location-info {
